@@ -1,4 +1,9 @@
 nkwebgi:hiii
 
+<<<<<<< HEAD
 addinn the erkgenrjjexn 
 erngejrige/nrom thk git
+=======
+adding the text from the git
+this is line 4 from git
+>>>>>>> 0069d24d2701209b5fa6c5c1852dd129861d71a1
